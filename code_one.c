@@ -1,3 +1,9 @@
+/* Name: Emma Roy
+   Lab number & Section: Lab 05, Friday 1PM
+   File Purpose: This file takes an input file and provides the user with every value given with its correlating month,
+   a sales summary report, six month moving report, and ordering based on higest to lowest revenue.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <float.h> 
